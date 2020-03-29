@@ -1,8 +1,8 @@
 body {
-  
+  display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: auto;
   background-color:#f6f6f6;
   color:#000;
 }
