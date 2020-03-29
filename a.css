@@ -10,7 +10,7 @@ body {
 .typewrite > .wrap { 
   color: #000;
   font-family: 'Swanky and Moo Moo', cursive;
-  font-size: 5em;
+  font-size: 32;
 }
 
 * {
