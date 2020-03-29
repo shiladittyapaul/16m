@@ -6,6 +6,9 @@ body {
   background-color:#f6f6f6;
   color:#000;
 }
+h1 {
+  font-size: 200px;
+}
 
 .typewrite > .wrap { 
   color: #000;
